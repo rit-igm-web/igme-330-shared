@@ -50,14 +50,14 @@
 
 <hr>
 
-5) Submission ***(No dropbox submission this semester, Spring 2024)***
+5) Save your work!
 - name the file **lastName-firstInitial-greeter-2.html**
-- ~~ZIP and POST it to the myCourses dropbox~~
-  - But you should certainly still do it as we may build on it further in the weeks ahead.
+- You do not need to upload this to the myCourses Assignment Dropboxes at this time, but you should complete it and keep it on hand as we will build on it further in the weeks ahead.
+- If you are not able to get some part of it working, please ask about it (ask your instructor or TA in class, ask on Slack, consult an AI for ideas and guidance, etc) so that you're not stuck.
 
 <hr>
 
-- **The done version should look like this**
+- **The done version should look somewhat like these screen shots**
   
 ![screenshot](_images/greeter-1.png)
   
