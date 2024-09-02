@@ -1,5 +1,16 @@
 # Notes - More about JS values
 
+<details>
+  <summary><strong>Table of Contents</strong></summary>
+
+- [A. Falsy Values](#a-falsy-values)
+- [B. `NaN`](#b-nan)
+- [C. Equality (`==`) vs. Strict Equality (`===`)](#c-equality-vs-strict-equality)
+- [D. Template Strings](#d-template-strings)
+
+</details>
+
+
 ## A. Falsy Values
 - In JavaScript, a falsy value is a value that is considered `false` when encountered in a Boolean context.
 - [MDN Reference - Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
