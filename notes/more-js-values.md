@@ -5,7 +5,7 @@
 
 - [A. Falsy Values](#a-falsy-values)
 - [B. `NaN`](#b-nan)
-- [C. Equality (`==`) vs. Strict Equality (`===`)](#c-equality-vs-strict-equality)
+- [C. Equality (`==`) vs. Strict Equality (`===`)](#c-equality--vs-strict-equality-)
 - [D. Template Strings](#d-template-strings)
 
 </details>
