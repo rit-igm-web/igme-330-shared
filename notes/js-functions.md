@@ -1,3 +1,24 @@
+<details>
+  <summary>Table of Contents</summary>
+
+- [JS Functions](#js-functions)
+  - [I. Simple function, no parameters](#i-simple-function-no-parameters)
+  - [II. A function that takes a parameter and returns a value](#ii-a-function-that-takes-a-parameter-and-returns-a-value)
+  - [III. Functions declared with the `function` keyword can be called *before* they are declared](#iii-functions-declared-with-the-function-keyword-can-be-called-before-they-are-declared)
+  - [IV. Functions can be declared *inside* of other functions](#iv-functions-can-be-declared-inside-of-other-functions)
+  - [V. Recursion - functions can "call themselves"](#v-recursion---functions-can-call-themselves)
+  - [VI. Arrow functions](#vi-arrow-functions)
+    - [VI-A. Declarations with `function`](#vi-a-declarations-with-function)
+    - [VI-B. Arrow Function examples](#vi-b-arrow-function-examples)
+  - [VII. Functions are "First class" objects](#vii-functions-are-first-class-objects)
+    - [VII-A. Functions can be assigned to variables and properties](#vii-a-functions-can-be-assigned-to-variables-and-properties)
+    - [VII-B. Functions can be passed to other functions as parameters](#vii-b-functions-can-be-passed-to-other-functions-as-parameters)
+    - [VII-C. Functions can have properties and methods just like any other object](#vii-c-functions-can-have-properties-and-methods-just-like-any-other-object)
+    - [VII-D. Functions can `return` other functions](#vii-d-functions-can-return-other-functions)
+
+</details>
+
+
 # JS Functions
 
 - Functions are one of the fundamental building blocks in JavaScript.
