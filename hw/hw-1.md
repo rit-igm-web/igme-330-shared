@@ -7,14 +7,13 @@
 <hr>
 
 ## I. Be sure that your start code from PE-01 is 100% correct
-- See the rubric here:  [PE 01 - Technobabble#iv-rubric](../pe/pe-01.md#iv-rubric)
-  - HW grade will be reduced for any missing features, per rubric above
-
+- Review the rubric in myCourses for the PE-01 assignment.  If you've already received your score for PE-01 there may be some things to correct.
+  - Your HW grade will be reduced for any still-missing or now-broken features, per this rubric.
 <hr>
 
 ## II. Add another button that's only visible at `1408px` width or higher
 
-- See the requirements here: [Technobabble Generator III](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-technobabble-3.md)
+- See the requirements here: [Technobabble Generator III](https://github.com/rit-igm-web/igme-330-shared/blob/main/notes/HW-technobabble-3.md)
   - For the requirement "both buttons MUST call the SAME function - named something like `generateTechno(num)`"
     - you can use the "wrapper function" technique we demoed in class and that you used on the final version of "Greeter"
   - Also, you MUST use a loop to build each line of babble
