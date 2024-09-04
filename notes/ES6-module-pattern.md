@@ -1,17 +1,15 @@
-# ES6 Module Pattern (2225)
+# ES6 Module Pattern
 
-## Contents
-<!--- Local Navigation --->
-I. [Why do we need modularized code?](#section1)
+<details>
+  <summary>Table of Contents</summary>
+	
+- [I. Why do we need modularized code?](#section1)
+- [II. ES6 Module Syntax](#section2)
+- [III. Try it out!](#section3)
+- [IV. Reference](#section4)
+- [V. Review Questions](#section5)
 
-II. [ES6 Module Syntax](#section2)
-
-III. [Try it out!](#section3)
-
-IV. [Reference](#section4)
-
-V. [Review Questions](#section5)
-
+</details>
 
 <hr>
 
