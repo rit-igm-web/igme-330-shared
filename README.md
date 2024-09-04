@@ -4,8 +4,7 @@ _This repository hosts the web programming course materials for IGME-330, encomp
 
 ## Course Resources
 
-- [Syllabus](syllabus.md)
-- [Schedule](schedule.md)
+- The course syllabus, schedule, checklists, weekly notes and more can all be found in the myCourses shell.
 
 ## Need some review?
 
