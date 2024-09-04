@@ -58,21 +58,26 @@ We have been getting away with writing "non modular" JavaScript code so far beca
 
 <a id="important-restrictions"/>
 
-### II-B. \*\* Important Restrictions \*\*
+### II-B. **Important Restrictions**
 
-ES6 modules have 2 restrictions:
-- #1 - as of Spring 2023, they are supported by *recent versions* (the last 5 years or so) of all major browsers - see these compatibility charts: 
-  - [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import#Browser_compatibility](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import#Browser_compatibility)
-  - [https://caniuse.com/es6-module](https://caniuse.com/es6-module)
-- #2 - they need be hosted on a web server to function, and thus won't work if opened from the desktop of your computer. How can you deal with this restriction?
-  - Most IDEs have a "Live Preview" or "Live Server" mode that launches a web server. Figure out how to get than working for your preferred tool:
-    - VSCode Live Server:
-      - [https://ritwickdey.github.io/vscode-live-server/](https://ritwickdey.github.io/vscode-live-server/)
-  - OR, put all of your files on banjo and test them from there (kinda a pain to do all the time)
-  - OR, use Python and the `SimpleHTTPServer` module to launch a web server locally - installation and usage instructions are here (the lab machines already have Python installed) -->  [https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server)
-  - OR, if you are familiar with node and npm, check out the `http-server` module:
-    - but be sure to turn off caching with `http-server -c-1` --> https://www.npmjs.com/package/http-server
+ES6 modules have specific restrictions that you need to be aware of:
 
+1. **Browser Compatibility**: As of 2023, ES6 modules are supported by all major browsers from the last five years. For up-to-date compatibility information, refer to the following:
+   - [MDN Compatibility](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import#Browser_compatibility)
+   - [Can I use ES6 modules?](https://caniuse.com/es6-module)
+
+2. **Serving Modules**: Modules need to be served over HTTP/HTTPS and will not function correctly when opened directly from your file system due to browser security restrictions (CORS policies). Here’s how to get around this:
+   - **VSCode Live Server**: This is the simplest method for most users. Follow this guide to set it up: [VSCode Live Server Guide](https://ritwickdey.github.io/vscode-live-server/).
+   - **Python HTTP Server**: If using Python 3, start a server by running:
+     ```bash
+     python -m http.server
+     ```
+   - **Node.js and `http-server`**: Install and run with:
+     ```bash
+     npm install -g http-server
+     http-server -c-1
+     ```
+   - **Other IDEs**: Most modern IDEs have a live preview feature that launches a local server.
 
 <hr>
 
@@ -92,17 +97,17 @@ ES6 modules have 2 restrictions:
 <a id="section4">
   
 ## IV. Reference
-- What's a *namespace*?
-  - [https://en.wikipedia.org/wiki/Namespace](https://en.wikipedia.org/wiki/Namespace)
-- ES6 Module resources
-  - [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
-  - [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
-  - [http://exploringjs.com/es6/ch_modules.html#sec_mixing-named-and-default-exports](http://exploringjs.com/es6/ch_modules.html#sec_mixing-named-and-default-exports)
-  - [http://2ality.com/2014/09/es6-modules-final.html](http://2ality.com/2014/09/es6-modules-final.html)
-  - [https://jakearchibald.com/2017/es-modules-in-browsers/](https://jakearchibald.com/2017/es-modules-in-browsers/)
-  - [https://hacks.mozilla.org/2015/08/es6-in-depth-modules/](https://hacks.mozilla.org/2015/08/es6-in-depth-modules/)
-  - [https://blogs.windows.com/msedgedev/2016/05/17/es6-modules-and-beyond/](https://blogs.windows.com/msedgedev/2016/05/17/es6-modules-and-beyond/)
-  - [https://www.ecma-international.org/ecma-262/6.0/#sec-imports](https://www.ecma-international.org/ecma-262/6.0/#sec-imports)
+
+### Key Concepts
+- **Namespace**: A namespace is a container that holds a set of identifiers and allows the disambiguation of items that may otherwise have the same name. Learn more here: [Namespace](https://en.wikipedia.org/wiki/Namespace).
+
+### ES6 Module Resources
+- [MDN: `import`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
+- [MDN: `export`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
+- [Exploring ES6 Modules](https://exploringjs.com/es6/ch_modules.html#sec_mixing-named-and-default-exports)
+- [Caniuse: ES6 Modules](https://caniuse.com/es6-module) - Check module compatibility with different browsers.
+- [Introduction to ES Modules](https://jakearchibald.com/2017/es-modules-in-browsers/) - A practical guide on ES Modules in browsers.
+
 
 <hr>
 
