@@ -116,7 +116,7 @@ function canvasClicked(e){
   
 <hr>
  
-![screenshot](_images/canvas-drawing-stack.jpg)
+![screenshot](_canvas-images/canvas-drawing-stack.jpg)
 
 <hr>
 
