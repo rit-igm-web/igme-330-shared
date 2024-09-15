@@ -45,13 +45,13 @@ function getRandomInt(min, max) {
 
 We will demo how to draw a variety of shapes in class. Below are some possibile outcomes:
 
-![screenshot](./_images/screen-saver-1.gif)
+![screenshot](./_canvas-images/screen-saver-1.gif)
 
-![screenshot](./_images/screen-saver-2.gif)
+![screenshot](./_canvas-images/screen-saver-2.gif)
 
-![screenshot](./_images/screen-saver-3.gif)
+![screenshot](./_canvas-images/screen-saver-3.gif)
 
-![screenshot](./_images/screen-saver-4.gif)
+![screenshot](./_canvas-images/screen-saver-4.gif)
 
 <hr>
 
