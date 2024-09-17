@@ -135,7 +135,7 @@ Here's our start file:
 
 **Done Version:**
 
-![Screenshot](./_images/canvas-3-screen-saver-2C.gif)
+![Screenshot](./_canvas-images/canvas-3-screen-saver-2C.gif)
 
 <hr>
 
@@ -229,9 +229,9 @@ Here's our start file:
 
 **Done versions:**
 
-![Screenshot](./_images/canvas-3-screen-saver-2A.gif)
+![Screenshot](./_canvas-images/canvas-3-screen-saver-2A.gif)
 
-![Screenshot](./_images/canvas-3-screen-saver-2B.gif)
+![Screenshot](./_canvas-images/canvas-3-screen-saver-2B.gif)
 
 <hr>
 
