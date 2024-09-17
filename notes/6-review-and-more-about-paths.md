@@ -86,11 +86,11 @@ ctx.fill();
 
 \*\* ***Looks good, but note that we can only see 5 pixels of our 10-pixel stroke:*** \*\*
 
-![square image](./_images/square.jpg)
+![square image](./_canvas-images/square.jpg)
 
 \*\* ***By flipping the order of the stroke and fill calls, in this case calling `ctx.stroke()` AFTER `ctx.fill()`, we can change how the drawing looks. Below we can now see the entire 10-pixels of the stroke:*** \*\*
 
-![square image](./_images/square-2.jpg)
+![square image](./_canvas-images/square-2.jpg)
 
 <hr>
 
@@ -114,7 +114,7 @@ ctx.fill();
   ctx.fill();  
  ```
  
-![circle image](./_images/circle.jpg)
+![circle image](./_canvas-images/circle.jpg)
 
 <hr>
  
@@ -131,7 +131,7 @@ ctx.fill();
   ctx.fill();  
  ```
  
-![circle image](./_images/circle-2.jpg)
+![circle image](./_canvas-images/circle-2.jpg)
 
 <hr>
 
@@ -147,7 +147,7 @@ ctx.fill();
   ctx.stroke();
 ``` 
    
-![line image](./_images/line.jpg)
+![line image](./_canvas-images/line.jpg)
 
 <hr>
 
@@ -165,7 +165,7 @@ ctx.fill();
   ctx.fill(); 
 ``` 
 
-![triangle image](./_images/triangle.jpg)
+![triangle image](./_canvas-images/triangle.jpg)
 
 \*\* ***If we stroke the line BEFORE closing the path, then it won't "auto close". See below:*** \*\*
 
@@ -179,12 +179,12 @@ ctx.closePath();
 ctx.fill();
 ```
 
-![triangle image](./_images/triangle-2.jpg)
+![triangle image](./_canvas-images/triangle-2.jpg)
 
 \*\* ***If we set another drawing state attribute -  `ctx.lineJoin = "round";` - we get rounded corners. See below:*** \*\*
 - other possible values for `.lineJoin` are `"bevel"` and `"miter"` (the default) --> https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/lineJoin
 
-![triangle image](./_images/triangle-3.jpg)
+![triangle image](./_canvas-images/triangle-3.jpg)
 
 
 \*\* ***If we set the line dash pattern -  `ctx.setLineDash([5, 15]);` - we get a dashed line. See below:*** \*\*
@@ -193,7 +193,7 @@ ctx.fill();
 - You can see some other patterns here --> https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/setLineDash
 - And `lineDashOffset` (for "marching ants") - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/lineDashOffset
 
-![triangle image](./_images/triangle-4.jpg)
+![triangle image](./_canvas-images/triangle-4.jpg)
 
 <hr>
 
@@ -211,7 +211,7 @@ ctx.fill();
   ctx.fill();             
 ```
     
-![arc-to image](./_images/arc-to.jpg)
+![arc-to image](./_canvas-images/arc-to.jpg)
     
 - these are some references about `ctx.arcTo()` here:
   - https://developer.mozilla.org/en-US/docs/Web/API/CanvasRenderingContext2D/arcTo
