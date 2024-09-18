@@ -1,4 +1,4 @@
-# PE-06 - Algorithmic Botany
+# PE-06old - Algorithmic Botany
 
 ## I. Sine Wave
 - Instructions are here: [Animated Sine Waves](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-sine-wave.md)
