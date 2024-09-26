@@ -204,9 +204,9 @@ ctx.fill();
 ```js
   ctx.beginPath();
   ctx.moveTo(50, 100);             	// P0
-  ctx.arcTo(300, 425, 550, 100, 80); 	// P1, P2 and the radius
-  ctx.lineTo(550, 100);               // top line: line segment between P0 & P2     
-  ctx.closePath();
+  ctx.arcTo(300, 425, 550, 100, 80); 	// P1, P2 and the radius for the curve
+  ctx.lineTo(550, 100);                 // completes the path from the end of the curve to P2.
+  ctx.closePath();			// provides the top line segment between P2 & P0 
   ctx.stroke();               
   ctx.fill();             
 ```
