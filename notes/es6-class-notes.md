@@ -1,5 +1,24 @@
 # ES6 Class Notes
 
+<details>
+  <summary>Table of Contents</summary>
+
+- [ES6 Class Notes](#es6-class-notes)
+  - [I. A Simple `class`](#i-a-simple-class)
+    - [I-A. More ways to define a class](#i-a-more-ways-to-define-a-class)
+    - [I-B. These 4 versions look and behave similarly](#i-b-these-4-versions-look-and-behave-similarly)
+  - [II. Inheritance](#ii-inheritance)
+  - [III. Building a `CircleSprite` class](#iii-building-a-circlesprite-class)
+    - [III-A. Start code](#iii-a-start-code)
+    - [III-B. Get started on `CircleSprite`](#iii-b-get-started-on-circlesprite)
+    - [III-C. Create instances of `CircleSprite`](#iii-c-create-instances-of-circlesprite)
+    - [III-D. Get a-move-on!](#iii-d-get-a-move-on)
+    - [III-E. One more thing - `Object.assign()`](#iii-e-one-more-thing---objectassign)
+  - [IV. More things you could add (but don't have to)](#iv-more-things-you-could-add-but-dont-have-to)
+
+</details>
+
+
 - [MDN - ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) - *"Classes are a template for creating objects."*
 - [IGME-235 - ES6 Class Reference Material](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/pixi-js-2.md)
 
