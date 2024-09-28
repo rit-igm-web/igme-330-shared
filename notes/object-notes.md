@@ -13,7 +13,7 @@
     - [I-E. More about Object properties](#i-e-more-about-object-properties)
     - [I-F. Function properties](#i-f-function-properties)
     - [I-G. Initializing object properties](#i-g-initializing-object-properties)
-  - [II. Other nice stuff to know about JS objects](#ii-other-nice-stuff-to-know-about-js-objects)
+  - [II. Other nice stuff to know about JS objects](#ii-other-nice-stuff-to-know-about-js-objects-well-cover-some-of-this-later-on-on-course)
 
 </details>
 
