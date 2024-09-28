@@ -1,5 +1,23 @@
 # ES6 Object Notes
 
+<details>
+  <summary>Table of Contents</summary>
+
+- [ES6 Object Notes](#es6-object-notes)
+  - [I. Objects in ES6](#i-objects-in-es6)
+    - [I-A. Creation & Overview](#i-a-creation--overview)
+    - [I-B. Handy `Object` "class" methods](#i-b-handy-object-class-methods)
+    - [I-C. Object Prototypes](#i-c-object-prototypes)
+      - [I-C-i. Setting the object `prototype` to `null`](#i-c-i-setting-the-object-prototype-to-null)
+    - [I-D. Setting and getting properties](#i-d-setting-and-getting-properties)
+    - [I-E. More about Object properties](#i-e-more-about-object-properties)
+    - [I-F. Function properties](#i-f-function-properties)
+    - [I-G. Initializing object properties](#i-g-initializing-object-properties)
+  - [II. Other nice stuff to know about JS objects](#ii-other-nice-stuff-to-know-about-js-objects)
+
+</details>
+
+
 ## Overview
 - A software *object* is an entity which defines:
   - the "states" the object can exist in (i.e. properties)
