@@ -74,7 +74,7 @@
   - curves with `ctx.arcTo()`, `ctx.bezierCurveTo()`, `ctx.quadraticCurveTo()`
   - gradients and images - animated or otherwise
   - interesting applications of `ctx.translate()`, `ctx.rotate()` and `ctx.scale()`
-  - resources - [Canvas IV - Gradients & Bezier Curves](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-4.md)
+  - resources - [C2DES - Gradients & Bezier Curves](../notes/7-bezier-curves-and-gradients.md)
 - ***To obtain a score in this category, changes MUST be substantially improve the user experience (including aesthetics), appearance and/or functionality of the visualization.***
   - For example, merely changing the colors and the size of the pulsing circles, or modifying the background gradient from one garish combination of colors to another garish combination of colors, will not earn any points in this category
   - For maximum points in this category, think "passion project" or "portfolio piece" that is distinctly different from PE-08 and is something you could show to a potential employer
