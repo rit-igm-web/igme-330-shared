@@ -98,12 +98,11 @@
 ## VII. Hints/Tips
 
 ### VII-A. Audio Visualizer Examples
-
 - [Audio Visualizer Project Showcase Video (2181)](https://video.rit.edu/Watch/Si56JxGd) - projects are shown starting at 5:00
 
-### VII-B. Resources
-- [Web Audio WalkThrough](../notes/webaudio-walkthrough.md) - covers bass and treble node, as well as better looking drawing with translate/rotate/scale
-- [Canvas & Web Audio Resources](../notes/canvas-resources.md)
+### VII-B. Resources - NOTE: THESE POINT TO AN OLDER REPO.  They have not be fully updated for this semester yet and may point to older versions of the materials.
+- [Web Audio WalkThrough](https://github.com/tonethar/IGME-330-Spring-2023/notes/webaudio-walkthrough.md) - covers bass and treble node, as well as better looking drawing with translate/rotate/scale
+- [Canvas & Web Audio Resources](https://github.com/tonethar/IGME-330-Spring-2023/notes/canvas-resources.md)
 
 ### VII-C. Creating reusable functions will help a lot
 
