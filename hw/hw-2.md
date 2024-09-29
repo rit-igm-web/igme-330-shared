@@ -4,7 +4,7 @@
 
 ## Overview
 - Build your ***ultimate version*** of the Audio Visualizer!
-- Your starting point MUST be the "done" version of [PE-07 - Audio Visualizer](../pe/pe-07.md)
+- Your starting point MUST be the "done" version of [PE-08 - Audio Visualizer](../pe/pe-08.md)
 
 
 ---
@@ -77,7 +77,7 @@
   - resources - [Canvas IV - Gradients & Bezier Curves](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-4.md)
 - ***To obtain a score in this category, changes MUST be substantially improve the user experience (including aesthetics), appearance and/or functionality of the visualization.***
   - For example, merely changing the colors and the size of the pulsing circles, or modifying the background gradient from one garish combination of colors to another garish combination of colors, will not earn any points in this category
-  - For maximum points in this category, think "passion project" or "portfolio piece" that is distinctly different from PE-07 and is something you could show to a potential employer
+  - For maximum points in this category, think "passion project" or "portfolio piece" that is distinctly different from PE-08 and is something you could show to a potential employer
   
 ---
 
@@ -148,7 +148,7 @@ const drawLines = (ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 
 ---
 
-## VIII. Updated Rubric - Attached to Assignment dropbox in myCourses.
+## VIII. Rubric - Attached to Assignment dropbox in myCourses.
 
 ### Summary:
 - **I. Refactor the code to our course coding standards 10%**
@@ -157,7 +157,7 @@ const drawLines = (ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 - **IV. App Data requirements - 10%**
 - **V. Aesthetic Requirements - 15%**
 - **VI. Documentation Requirements - 10%**
-- ***Starting point is NOT PE-07 Audio Visualizer - (-100%)***
+- ***Starting point is NOT PE-08 Audio Visualizer - (-100%)***
 - ***Remaining 5% is following proper submission expectations see below***
 
 ---
@@ -174,11 +174,11 @@ const drawLines = (ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
   - *Yes, feel free to do so. But keep them SFW - "Safe For Work"*
 - Do I have to use a Bass and Treble node, or can I do something else?
   - *The requirements state "Add 2 Audio Effect nodes to the audio routing graph" - the example given was a Bass and Treble effect, but you can use ANY audio effect node that you wish to meet this requirement*
-- Regarding the requirement - **Your starting point MUST be the "done" version of PE-07**, does that mean that I have to keep all of the checkboxes, bitmap effects etc the same.
+- Regarding the requirement - **Your starting point MUST be the "done" version of PE-08**, does that mean that I have to keep all of the checkboxes, bitmap effects etc the same.
   - *You are free to delete or modify any of the canvas code, checkboxes, digital effects, etc*
-  - *What you MUST keep from the PE-07 assignment is the custom buttons (an `<audio>` element on the page is not allowed)*
+  - *What you MUST keep from the PE-08 assignment is the custom buttons (an `<audio>` element on the page is not allowed)*
   - *and you MUST retain the JS architecture of the app (i.e. **main.js**, **audio.js**, **utils.js**)*
-  - *at a BARE MINIMUM - YOU MUST STILL HAVE THE FOLLOWING CONTROLS from PE-07 (-15% per each one missing or not functional)*:
+  - *at a BARE MINIMUM - YOU MUST STILL HAVE THE FOLLOWING CONTROLS from PE-08 (-15% per each one missing or not functional)*:
     - Pause/Play button
     - Volume Slider
     - At least 4 checkboxes that change the visualization in some way (or these could be radio buttons, pull-downs, sliders etc)
