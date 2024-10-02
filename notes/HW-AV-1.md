@@ -63,7 +63,7 @@ In Part I of this assignment, you will be learning about the HTML5 [WebAudio API
 - Visual Studio Code has [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [You can also create a local web server using Python](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/set_up_a_local_testing_server) on your local machine
 - NodeJS can also run a local web server for you: https://www.npmjs.com/package/http-server
-- [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) (and other browsers) let you turn of CORS restrictions, so you don't need a web server --> https://pointdeveloper.com/how-to-bypass-cors-errors-on-chrome-and-firefox-for-testing/
+- [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/) (and with some extra work, other browsers) let you turn of CORS restrictions, so you don't need a web server.  
 - Run the code off of a real web server, which you can do by uploading your code to Banjo
 
 <hr/>
