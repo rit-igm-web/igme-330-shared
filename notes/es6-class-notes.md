@@ -20,7 +20,7 @@
 
 
 - [MDN - ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) - *"Classes are a template for creating objects."*
-- [IGME-235 - ES6 Class Reference Material](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/pixi-js-2.md)
+- [IGME-235 - ES6 Class Reference Material](https://github.com/rit-igm-web/igme-235-shared/blob/main/tutorial/pixi-js-2.md)
 
 <hr>
 
