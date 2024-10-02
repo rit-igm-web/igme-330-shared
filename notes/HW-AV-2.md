@@ -201,7 +201,7 @@ export {setupCanvas,draw};
 
 <hr><hr>
 
-**[Previous Chapter <- Audio Visualizer - Part I](HW-AV-2195-1.md)**
+**[Previous Chapter <- Audio Visualizer - Part I](HW-AV-1.md)**
 
-**[Next Chapter -> Audio Visualizer - Part III](HW-AV-2195-3.md)**
+**[Next Chapter -> Audio Visualizer - Part III](HW-AV-3.md)**
 
