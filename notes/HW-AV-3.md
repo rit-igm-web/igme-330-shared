@@ -131,12 +131,12 @@
 ## IV. Reference (Image Processing Links)
 
 - Image processing is a large field of study - here are some links you might find handy:
-  - http://www.techrepublic.com/blog/how-do-i/how-do-i-convert-images-to-grayscale-and-sepia-tone-using-c/#
+  - [http://www.techrepublic.com/blog/how-do-i/how-do-i-convert-images-to-grayscale-and-sepia-tone-using-c/#](https://web.archive.org/web/20180817082532/https://www.techrepublic.com/blog/how-do-i/how-do-i-convert-images-to-grayscale-and-sepia-tone-using-c/)
   - http://stackoverflow.com/questions/1061093/how-is-a-sepia-tone-created
   - http://html5doctor.com/video-canvas-magic/
   - https://archive.org/details/Lectures_on_Image_Processing
   - http://stackoverflow.com/questions/13932855/canvas-flip-half-the-image
-  - http://www.html5rocks.com/en/tutorials/canvas/imagefilters/#toc-setup
+  - https://web.dev/articles/canvas-imagefilters
   - http://lodev.org/cgtutor/filtering.html
 
 - Another application of this (when combined with the webcam) is edge detection, which lets us detect, recognize and track objects and motion, which leads to making a webcam controller that acts like the Kinect. There are JS libraries available that can do this:
@@ -146,4 +146,4 @@
 
 <hr><hr>
 
-**[Previous Chapter <- Audio Visualizer - Part II](HW-AV-2195-2.md)**
+**[Previous Chapter <- Audio Visualizer - Part II](HW-AV-2.md)**
