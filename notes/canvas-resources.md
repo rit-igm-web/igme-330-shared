@@ -35,7 +35,7 @@
 - [Canvas 2D Essential Skills #1 - Intro to the Drawing Context](https://github.com/rit-igm-web/igme-330-shared/blob/main/notes/1-canvas-intro-to-drawing-context.md)
 - [Canvas 2D Essential Skills #2 - Paths & Lines & Arcs](https://github.com/rit-igm-web/igme-330-shared/blob/main/notes/2-canvas-paths-lines-arcs.md)
 - [Canvas 2D Essential Skills #3 - Begin making a screensaver](https://github.com/rit-igm-web/igme-330-shared/blob/main/notes/3-begin-making-screensaver.md)
-- [Canvas 2D Essential Skills #4 - Adding Controls](https://github.com/rit-igm-web/igme-330-shared/blob/main/blob/master/notes/4-adding-controls.md)
+- [Canvas 2D Essential Skills #4 - Adding Controls](https://github.com/rit-igm-web/igme-330-shared/blob/main/notes/4-adding-controls.md)
 - [Canvas 2D Essential Skills #5 - Write some code!](https://github.com/rit-igm-web/igme-330-shared/blob/main/notes/5-write-some-code.md)
 - [Canvas 2D Essential Skills #6 - Review & More About Paths](https://github.com/rit-igm-web/igme-330-shared/blob/main/notes/6-review-and-more-about-paths.md)
 - [Canvas 2D Essential Skills #7 - Bezier curves and gradients](https://github.com/rit-igm-web/igme-330-shared/blob/main/notes/7-bezier-curves-and-gradients.md)
