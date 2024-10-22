@@ -109,9 +109,10 @@ To see if you already have **node** and **npm** installed on your computer, type
 
 - We are going to keep this as bare-bones as possible, so we will just download a joke from a "random geek joke" web service. The web service will return the joke data in plain text format - here are the docs:
   - https://github.com/sameerkumar18/geek-joke-api
+  - **Note:** The Geek Jokes API may occasionally return jokes that are offensive or inappropriate. We acknowledge this limitation and are actively seeking a more suitable alternative. In the meantime, this API serves as a useful tool for testing plain text data retrieval. Please proceed with caution and use the alternate service link below if needed.
 - and here is the URL to the service (click on the link to load it in browser, to be sure that it works):
   - https://geek-jokes.sameerkumar.website/api
-  - **UPDATE:** ***If the above web service is "down", use this one instead***:
+  - **UPDATE:** ***If the above web service is "down" or you prefer to use something else, use this one instead***:
     - https://people.rit.edu/~acjvks/330/shared/php/get-joke.php
 
 If you test the above link in a browser, you will see a random plain-text joke such as `"E-mail returned to sender... insufficient voltage."`
