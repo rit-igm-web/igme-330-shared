@@ -1,4 +1,4 @@
-# PE-09 - Bulma I - Intro to Bulma
+# PE-10 - Bulma I - Intro to Bulma
 
 ## Overview
 - You are going to build a fully responsive Bulma site that you will be using as a "starter" for some future HW assignments:
@@ -476,7 +476,7 @@
 
 ## Submission
 - Put all the files (index #1-7 and home.html, JS and images) into a folder
-- Name this folder ***lastName-firstInitial*-pe09**
+- Name this folder ***lastName-firstInitial*-pe10**
   - -5% for a misnamed folder
 - ZIP the folder and post to myCourses
 
