@@ -122,6 +122,7 @@ If you test the above link in a browser, you will see a random plain-text joke s
 
 ### A. Get started:
   - create a folder named **joke**
+    - (or **quote** or **trivia** or whatever seems right to you, just update all future instances of joke to the name you're using)
   - inside of the **joke** folder, create a file named **index.js**
 
 <hr>
