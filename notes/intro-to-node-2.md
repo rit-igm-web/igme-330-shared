@@ -37,6 +37,7 @@ IV. [Check It Off](#section4)
 ### A. Get started:
 
 - Create a new folder named **joke-2**
+  - _(or quote-2 -- feel free to substitute your foldername throughout if you've used an alternate api)_
 - Copy over your completed **index.js** file (only) from the **joke** folder you created in **Intro to Node.js - Part I**
   - DO NOT copy the **node_modules** folder or any of the other files over to this new folder
 - Change directory into the **joke-2** folder
@@ -190,7 +191,7 @@ light switch, you will be dead before the lightbulb turns on."
 
 
 ## IV. Show us your stuff
-- Make sure that everything still works in all 3 of these folders - **hello**, **joke** and **joke-2**
+- Make sure that everything still works in all 3 of these folders - **hello**, **joke** and **joke-2** (or quote and quote-2, etc)
   - take a screenshot of the console output for **joke-2** (showing the cow ASCI art and so on) - save it as a JPEG or PNG file
   - ***IMPORTANT -->*** delete the **node_modules** folders in all 3 of the folders
 - Create a new folder named ***lastName*-*firstInitial*-node-intro**
