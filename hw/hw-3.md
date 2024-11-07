@@ -52,7 +52,7 @@
 ---
 
 ## IV. Refactor the CSS with Bulma and add an about.html page (35%)
-- Use [PE-08 - Bulma I - Intro to Bulma](../pe/pe-08.md) as a "starter" page
+- Use [PE-10 - Bulma I - Intro to Bulma](../pe/pe-10.md) as a "starter" page
 - Reimplement the app UI in the starter page
 - See [HW3 - Bulma Requirements](hw3-bulma-requirements.md)
 
@@ -64,13 +64,13 @@
   - just do what we've been doing all semester (ES6 modules, arrow functions, `let` & `const` etc)
 - **Option #2** - TypeScript (max grade for this option is 15%)
   - Review:
-    - [Intro to TypeScript](https://github.com/tonethar/IGME-330-Master/blob/master/notes/intro-typescript.md)
+    - [Intro to TypeScript](../notes/intro-typescript.md)
     - [Checkoff - TypeScript Practice](../checkoffs/typescript-practice.md)
     - Make ***substantial*** use of TypeScript in your code: interfaces, enums and strongly typed variables, function parameters, and function return types where needed
     - ***This walks through converting the Audio Visualizer over to TypeScript: [HW-3 - Converting an existing project to TypeScript](hw3-typescript-notes.md)***
 - **Option #3** - React (max grade for this option is 15%)
   - you probably want to start out by bootstrapping a new project with Vite:
-    - [Intro to React#v-bootstrapping-a-react-project](https://github.com/tonethar/IGME-330-Master/blob/master/notes/react-intro.md#v-bootstrapping-a-react-project-the-easy-way)
+    - [Intro to React#v-bootstrapping-a-react-project](../notes/react-intro.md#v-bootstrapping-a-react-project-the-easy-way)
   - recommendtions:
     - if you want to try out this option (React), consider doing so on the Web Service Application, NOT the Audio Visualizer
     - start out by first trying to get everything working in a single `App` component, and then decompose/re-factor the working code into other components
@@ -79,8 +79,8 @@
 
 ## VI. Bundle the code (15%)
 - For **option #1** (ES6 Vanilla JS) above, be sure to transpile the code to ES5 and bundle it per these instructions: [Bundling & Transpiling JS](../notes/bundling-transpiling.md)
-- For **option #2** (TypeScript) above, be sure to transpile the code to ES5 and bundle it per these instructions: [Intro to TypeScript](https://github.com/tonethar/IGME-330-Master/blob/master/notes/intro-typescript.md)
-- For **option #3** (React) above, be sure to transpile the code to ES5 and bundle it per these instructions: [Intro to React#v-bootstrapping-a-react-project](https://github.com/tonethar/IGME-330-Master/blob/master/notes/react-intro.md#v-bootstrapping-a-react-project)
+- For **option #2** (TypeScript) above, be sure to transpile the code to ES5 and bundle it per these instructions: [Intro to TypeScript](../notes/intro-typescript.md)
+- For **option #3** (React) above, be sure to transpile the code to ES5 and bundle it per these instructions: [Intro to React#v-bootstrapping-a-react-project](../notes/react-intro.md#v-bootstrapping-a-react-project)
   
 ---
 
