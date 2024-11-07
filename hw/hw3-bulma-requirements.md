@@ -1,7 +1,7 @@
 # HW3 - Bulma Requirements
 
 ## I. An 'About' Page is required
-- A good starting point is **home.html** from [PE-08 - Bulma I - Intro to Bulma](../pe/pe-08.md)
+- A good starting point is **home.html** from [PE-10 - Bulma I - Intro to Bulma](../pe/pe-10.md)
 - The name of the page must be **about.html**
   - give the `<title>` tag a meaningful value
 - It must have a navigation system that includes a functional hamburger menu that will toggle its appearance when clicked
@@ -18,8 +18,8 @@
 ---
 
 ## II. An 'App' Page is required
-- A good starting point is **home.html** from [PE-08 - Bulma I - Intro to Bulma](../pe/pe-08.md)
-  - NB: if you are going to have multiple columns and/or rows in your app page layout (almost a certainty), you will also want to review PE-08's "index" pages that demoed how to lay out columns and rows in Bulma 
+- A good starting point is **home.html** from [PE-10 - Bulma I - Intro to Bulma](../pe/pe-10.md)
+  - NB: if you are going to have multiple columns and/or rows in your app page layout (almost a certainty), you will also want to review PE-10's "index" pages that demoed how to lay out columns and rows in Bulma 
 - The name of the page must be **index.html**
   - give the `<title>` tag a meaningful value
 - It must have a navigation system that includes a functional hamburger menu that will toggle its appearance when clicked
