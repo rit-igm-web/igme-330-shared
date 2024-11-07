@@ -26,7 +26,7 @@
 ## I. Choose a web app to refactor
 - There are two "pre-approved" web apps you may use:
   - IGME-330's [HW-2 - Audio Visualizer - Ultimate Version](../hw/hw-2.md)
-  - IGME-235's [Project 2 - Web Service Application](https://github.com/dccircuit/IGME-235-Fall-2023/blob/main/projects/project-2.md)
+  - IGME-235's [Project 2 - Web Service Application](https://github.com/rit-igm-web/igme-235-shared/blob/main/projects/project-2.md)
 - ***If there is a different project you would rather refactor, ask (well) in advance of the due date***
   - you must DM me in Slack to document this permission
 - Put everything in a folder named ***coder-a*-hw3-refactor** (with ***coder-a*** replaced by your actual last name and first initial)
