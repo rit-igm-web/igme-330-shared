@@ -9,7 +9,7 @@
 <hr>
 
 ## I. Get started
-- Download the start files from myCourses (**hw-4-starter.zip** found in Week 13 of the Content area)
+- Download the start files from myCourses (**hw-4-starter.zip** found in Week 12 of the Content area)
 - Rename the folder to ***lastName*-*firstInitial*-hw4-starter**
 - Look over the HTML/CSS/JS files to be sure that you understand the structure of the app
 - Add your Mapbox API key to **map.js**
