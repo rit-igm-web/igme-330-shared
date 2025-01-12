@@ -104,7 +104,7 @@
 
 - Practice Exercise & Homework code MUST be commented
   - all functions and methods MUST have a comment right before the declaration of the function/method that summarizes what it does
-- You might (but don't have to) use the JSDoc commenting syntax:
+- You might (but don't have to) use the JSDoc commenting syntax -- we'll look at this in more detail later in the semester:
   - https://jsdoc.app/
   - https://devhints.io/jsdoc
   - JSDoc comments in concert with VSCode give you type hinting and other features
