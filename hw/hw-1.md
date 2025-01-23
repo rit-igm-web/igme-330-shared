@@ -2,12 +2,12 @@
 
 ## Overview
 - The ultimate version of Technobabble with external JS in an ES6 module, template strings, arrow functions, Ajax, JSON and still mobile friendly
-- Your starting point is the "done" version of [PE-01 - Technobabble](../pe/pe-01.md)
+- Your starting point is the "done" version of [Exercise: Technobabble](../pe/pe-01.md)
 
 <hr>
 
-## I. Be sure that your start code from PE-01 is 100% correct
-- Review the rubric in myCourses for the PE-01 assignment.  If you've already received your score for PE-01 there may be some things to correct.
+## I. Be sure that your start code from first exercise is 100% correct
+- Review the rubric in myCourses for the *Exercise: Technobabble* assignment.  If you've already received your score for it there may be some things to correct.
   - Your HW grade will be reduced for any still-missing or now-broken features, per this rubric.
 <hr>
 
