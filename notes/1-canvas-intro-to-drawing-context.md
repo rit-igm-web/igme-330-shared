@@ -160,7 +160,7 @@
 - Rename **cs-canvas-1.html** to ***lastName-firstInitial*-cs-canvas-1.html**
 - ZIP and POST ***lastName-firstInitial*-cs-canvas-1.html** into the dropbox (you'll submit this together with the next checkoff in the same zip)
 
-## VI. Study for the next "Practice Quiz"?:  
+## VI. Study for the next "Study Quiz"?:  
  
 1 - List the 3 drawing state *properties* we used in this demo
  
