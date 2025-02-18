@@ -9,4 +9,4 @@
   
 ## II. Submission
 - the start files (and instructions, which are in the HTML file) are here -> [try-it-1-start.zip](_files/try-it-1-start.zip)
-- see mycourses.rit.edu for due date
+
