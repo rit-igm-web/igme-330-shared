@@ -3,7 +3,7 @@
 ## I. Build a simple Audio Visualizer
 
 - Notes and start code are here:
-  - [Web Audio I - Build a Simple Audio Visualizer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-1.md)
+  - [Web Audio I - Build a Simple Audio Visualizer](demo-web-audio-1.md)
   - Looks pretty good - uses translate/rotate/scale
   - Has Bass and Treble effect nodes
 - Video Links:
@@ -16,6 +16,6 @@
 
 ## II. Treble, Bass & Distortion Nodes
 - Notes and start code are here:
-  - [Web Audio II - Treble, Bass & Distortion Nodes](https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-2.md)
+  - [Web Audio II - Treble, Bass & Distortion Nodes](demo-web-audio-2.md)
 - Video Links:
   - [Part II-A (15:24)](https://rit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=45d1156d-d77c-4f91-891d-afb9001796bb) - no rehearsal and one take!
