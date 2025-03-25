@@ -358,7 +358,7 @@ npm install
   - then check **package.json** to see the `dev-dependencies:` that were added
   - and see that **node_modules** just got bigger with more babel-related files
 - Add the following `module` key to the bottom of **webpack.config.js**
-  - (except for the `...`)
+  - (except for the `...`) -- add it as an additional key inside of the overall module.exports object (after the output key).
   - the rules below tell **webpack** to utilize **babel** to *transpile* the JS to ES5 while *bundling* the JS files
   - the JS files to be transpiled will have a **.js** or **.mjs** file extension (that's a regular expression being used below)
   - also, webpack will ignore the **node_modules** folder
