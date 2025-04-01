@@ -1,6 +1,8 @@
 # Bundling & Transpiling JS - ABRIDGED
 
-## I. Install Node.js and the *Node Package Manager* (`npm`) - *if you need to*
+## SET UP AND BUNDLE
+
+ **0) Install Node.js and the *Node Package Manager* (`npm`) - *if you need to***
  
  **1) Change directory to your project folder**
  
@@ -135,7 +137,7 @@ When you post this to the web:
 
 <hr>
  
-## II. <a id="section8"> NOW TO ALSO TRANSPILE:
+## NOW TO ALSO TRANSPILE:
 
 - In **webpack.config.js**, change the `"mode"` from `"development"` to `"production"`
 - Quit node in the console (if it's running) with control-c
