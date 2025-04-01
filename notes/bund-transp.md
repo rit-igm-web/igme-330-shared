@@ -1,6 +1,6 @@
 # Bundling & Transpiling JS - ABRIDGED
 
-## I. Install Node.js and the *Node Package Manager* (`npm`) - *if you need to***
+## I. Install Node.js and the *Node Package Manager* (`npm`) - *if you need to*
  
  **1) Change directory to your project folder**
  
@@ -58,7 +58,7 @@ npm install webpack-cli --save-dev
 ```
   
 
-**PS - You will now also see a file named *package-lock.json* - you won't be editing it - read about it here: https://docs.npmjs.com/files/package-lock.json**
+**PS - You will now also see a file named *package-lock.json* - you won't be editing it**
 
 <hr>
  
@@ -135,7 +135,7 @@ When you post this to the web:
 
 <hr>
  
-## VIII. <a id="section8"> NOW TO ALSO TRANSPILE:
+## II. <a id="section8"> NOW TO ALSO TRANSPILE:
 
 - In **webpack.config.js**, change the `"mode"` from `"development"` to `"production"`
 - Quit node in the console (if it's running) with control-c
@@ -172,6 +172,9 @@ module.exports = {
 ```
 
 <hr>
+
+- Type `npm start` to load the **webpack.config.js** changes 
+- Make sure that Greeter still works
 
 - Don't forget to actually use the transpiled JS by adding the `<script src="dist/bundle.js"></script>` tag to the bottom of your HTML page
 - Verify that everything still works by temporarily deleting your **src** folder (bring it back after you've done the test)
