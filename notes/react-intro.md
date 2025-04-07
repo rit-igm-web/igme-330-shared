@@ -309,6 +309,7 @@ export default App;
 - Add `const [newItem, setNewItem] = useState("test");` right before the `return` statement
   - note the array destructuring assignment above
   - `newItem` is a now declared as a variable
+    - or better yet, *a piece of "stateful data" that React will track and cause a re-render to happen when it changes*
   - `setNewItem` is a setter (created by React) that I call whenever I want to change the value of `newItem`
   - `"test"` is the initial value for `newItem`
 - Add `value={newItem}` attribute to the `<input>`
