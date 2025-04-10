@@ -229,7 +229,7 @@ export const readFromLocalStorage = (key) => {
 }
 ```
 
-- Over in **App.jxs**, `import` it
+- Over in **App.jsx**, `import` it
   - `import { readFromLocalStorage, writeToLocalStorage } from "./storage";`
 - N.B. - this code is more than we need to store a single string value, and was deliberately over-engineered so that you could (for example) easily also save an array of search terms (the search *history*), or an array of the most recent amiibo results, or an array of amiibo favorites, etc
 
