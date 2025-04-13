@@ -16,7 +16,7 @@
   - for apps deployed to shared domains like people.rit.edu, be sure to store your data under unique keys, so that someone else's JS doesn't overwrite your data
     - for example `highscores` is a terrible key name for your data
     - `abc1234-highscores` (where abc1234 is your id) would be better
-- We've covered this before - [IGME-235 - Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-235-Shared/blob/master/tutorial/web-apps-9.md)
+- We've covered this before - [IGME-235 - Web Apps 9 - WebStorage API](https://github.com/rit-igm-web/igme-235-shared/blob/main/tutorial/web-apps-9.md)
  
 ---
 
