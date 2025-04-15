@@ -13,6 +13,10 @@
 
 ### I-A. A basic `fetch()` request
 
+- Note the URL for the Star Wars API has changed. Please use this instead:
+- There are a couple code screenshots below which may not have been updated by class April 2025.
+Please be sure to use the updated URL in your fetch('') call.
+
 ```js
 function loadJsonFetch(){
   const promise = fetch('https://swapi.dev/api/people/1'); // get a Star Wars character
