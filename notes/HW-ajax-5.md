@@ -14,7 +14,7 @@
 ### I-A. A Basic `fetch()` Request
 
 - **⚠️ IMPORTANT:** The URL for the Star Wars API has changed. Please use this instead:  
-  `http://people.rit.edu/~jxtadm/starwars/luke.json`
+  `https://people.rit.edu/~jxtadm/starwars/luke.json`
 - The old URL was: `https://swapi.dev/api/people/1`.  
   Some code screenshots below may not have been updated before our class (April 2025).
 - **Be sure to use the updated URL in your `fetch()` call.**
@@ -22,7 +22,7 @@
 
 ```js
 function loadJsonFetch(){
-  const promise = fetch('http://people.rit.edu/~jxtadm/starwars/luke.json'); // get a Star Wars character
+  const promise = fetch('https://people.rit.edu/~jxtadm/starwars/luke.json'); // get a Star Wars character
   console.log(promise); // "Promise {<pending>}"
 }
 ```
