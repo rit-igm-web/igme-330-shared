@@ -44,7 +44,8 @@ function loadJsonFetch(){
 
 <hr>
 
-![screenshot](_images/_ajax-images/HW-ajax-4.png)
+<img width="1103" alt="ajax-5-2" src="https://github.com/user-attachments/assets/c6201bbd-9ff8-42d6-bcda-4f56680984e6" />
+
 
 </hr>
 
@@ -59,7 +60,7 @@ function loadJsonFetch(){
 
 <hr>
 
-![screenshot](_images/_ajax-images/HW-ajax-5.png)
+<img width="980" alt="ajax-5-3" src="https://github.com/user-attachments/assets/6c600685-2ff1-4a9f-a075-4da9ac8d357b" />
 
 </hr>
 
@@ -76,7 +77,7 @@ function loadJsonFetch(){
 
 <hr>
 
-![screenshot](_images/_ajax-images/HW-ajax-6.png)
+<img width="1088" alt="ajax-5-4" src="https://github.com/user-attachments/assets/37e859f6-af48-4f0d-9e83-3543921eea43" />
 
 </hr>
 
