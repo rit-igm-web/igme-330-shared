@@ -1,5 +1,12 @@
 # HW - Ajax-6 - `async` & `await` with the `fetch()` API
 
+- **⚠️ IMPORTANT:** The URL for the Star Wars API has changed. Please use this instead:  
+  `http://people.rit.edu/~jxtadm/luke.json`
+- The old URL was: `https://swapi.dev/api/people/1`.  
+  Some code screenshots below may not have been updated before our class (April 2025).
+- **Be sure to use the updated URL in your `fetch()` call.**
+- The full API may not work as intended, but this example should still get you through the fetch demos!
+
 ## Overview
 - The video walkthrough for this assignment is here. You will need to be logged into RIT/myCourses before you can access it: [HW - Ajax-6 (09:30)](https://rit.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=48c38f6f-9ce8-4f08-9016-ad9e00f5c88d&start=0)
 - If you find the `.then()` and `.catch()` syntax of JS promises somewhat obtuse, you might be interested in learning about `async` and `await`, which are also designed to work with promises, and can enable a developer to write much clearer code

@@ -11,11 +11,14 @@
 ## I. About fetch()
 - The `window.fetch()` method is similar to `XHR` in that it used to make Ajax requests, such as calling a remote API or fetching a local file from a server
 
-### I-A. A basic `fetch()` request
+### I-A. A Basic `fetch()` Request
 
-- Note the URL for the Star Wars API has changed. Please use this instead:
-- There are a couple code screenshots below which may not have been updated by class April 2025.
-Please be sure to use the updated URL in your fetch('') call.
+- **⚠️ IMPORTANT:** The URL for the Star Wars API has changed. Please use this instead:  
+  `http://people.rit.edu/~jxtadm/luke.json`
+- The old URL was: `https://swapi.dev/api/people/1`.  
+  Some code screenshots below may not have been updated before our class (April 2025).
+- **Be sure to use the updated URL in your `fetch()` call.**
+- The full API may not work as intended, but this example should still get you through the fetch demos!
 
 ```js
 function loadJsonFetch(){
