@@ -22,7 +22,7 @@
 
 ```js
 function loadJsonFetch(){
-  const promise = fetch('https://swapi.dev/api/people/1'); // get a Star Wars character
+  const promise = fetch('http://people.rit.edu/~jxtadm/luke.json'); // get a Star Wars character
   console.log(promise); // "Promise {<pending>}"
 }
 ```
