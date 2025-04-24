@@ -32,7 +32,7 @@
 
   **II-C) User favorites are preserved in `localStorage` so that when the user reloads the page the contents of the Favorites panel are preserved**
 
-  - You should probably utilize **storage.js** from [Checkoff - `localStorage` Practice](https://github.com/tonethar/IGME-330-Master/blob/master/notes/localstorage-practice.md)
+  - You should probably utilize **storage.js** from [Checkoff - `localStorage` Practice](https://github.com/rit-igm-web/igme-330-shared/blob/main/notes/localstorage-practice.md)
   - Don't forget to change the value of `storeName` to something that makes sense for this HW
   - Be sure that the app works in a "first run" scenario where the `favoriteIds` array has not yet been saved to `localStorage`:
     - meaning, if the data that was loaded from `localStorage` is not an array, `favoriteIds` can be initialized as an empty array
@@ -44,7 +44,7 @@
   - The name of this page is **favorite-parks-viewer.html**
   - Page styling is similar to **index.html**
   - The page will display the park id, the park name and the number of times it has been favorited
-  - This Firebase demo will help you set this up - [4 - More Firebase - creating a likes counter for Dog names](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-4.md)
+  - This Firebase demo will help you set this up - [4 - More Firebase - creating a likes counter for Dog names](https://github.com/rit-igm-web/igme-330-shared/blob/main/notes/firebase-4.md)
     - Hint: when the user clicks the "Favorite" button on **index.html**, use `likes: increment(1)` to *increment* the `likes` count
     - Hint: when the user clicks the "Delete" button **index.html**, use `likes: increment(-1)` to *decrement* the `likes` count
   - NB: This **favorite-parks-viewer.html** page is an "app" that is separate and distinct from *NYS Park Buddy* app (**index.html**)
