@@ -170,7 +170,7 @@ const parks = {
 };
 ```
 
-6) [HW-4 Helper? - Suggestion: create a firebase.js code module](../weekly/14B.md#iii-hw-4-helper---suggestion-create-a-firebasejs-code-module)
+6) HW-4 Helper? - Suggestion: create a firebase.js code module - Visit the Week 14B Notes in myCourses
 
 7) As is documented above, your `localStorage` functionality must work in a "first run" scenario - which you can test by deleting the `localStorage` data in the browser (under the **Application** tab) and then reloading the page. Here's the code that did that for the  localStorage checkoff, by first checking to see if there was an array of `items`, and if there was not, `items` was initialized to an empty array.
 
