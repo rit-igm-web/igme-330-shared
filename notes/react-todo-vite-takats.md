@@ -11,6 +11,8 @@ A fully functional todo list application with:
 **Technologies**: React, Vite, localStorage  
 **Prerequisites**: Basic understanding of components and props
 
+Here is that youtube video version but a different todo list but a very good guide: https://www.youtube.com/watch?v=Rh3tobg7hEo
+
 ---
 
 ## Setup: Create Vite Project (5 minutes)
