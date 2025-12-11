@@ -31,7 +31,7 @@
 ## II. Set up the TypeScript/Webpack tooling
 ***With the app you want to refactor***:
 
-- Follow the instructions here: [Intro to TypeScript#Use node & webpack to transpile a TypeScript app to JS](https://github.com/tonethar/IGME-330-Master/blob/master/notes/intro-typescript.md#iii-use-node--webpack-to-transpile-a-typescript-app-to-js)
+- Follow the instructions here: [Intro to TypeScript#Use node & webpack to transpile a TypeScript app to JS](https://github.com/rit-igm-web/igme-330-shared/blob/main/notes/intro-typescript.md#iii-use-node--webpack-to-transpile-a-typescript-app-to-js)
 - Don't forget to edit your HTML file to use the transpiled code in the **dist/** folder:
   - comment out the `<script>` tag in the `<head>` of the document
   - and then add `<script src="./dist/bundle.js"></script>` to the bottom of the page
